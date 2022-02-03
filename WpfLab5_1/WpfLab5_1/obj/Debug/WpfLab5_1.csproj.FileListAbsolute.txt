@@ -1,0 +1,15 @@
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.csproj.AssemblyReference.cache
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\MainWindow.g.cs
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\App.g.cs
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1_MarkupCompile.cache
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1_MarkupCompile.lref
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\bin\Debug\WpfLab5_1.exe.config
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\bin\Debug\WpfLab5_1.exe
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\bin\Debug\WpfLab5_1.pdb
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\MainWindow.baml
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.g.resources
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.Properties.Resources.resources
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.csproj.GenerateResource.cache
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.csproj.CoreCompileInputs.cache
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.exe
+C:\Users\benle\source\repos\WPFLab\Lab5\WpfLab5_1\WpfLab5_1\WpfLab5_1\obj\Debug\WpfLab5_1.pdb
